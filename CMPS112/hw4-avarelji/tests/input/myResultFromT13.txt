@@ -1,0 +1,3 @@
+ELet "f" (ELam "x" (ELam "y" (ELam "a" (EApp (EVar "a") (EBin Mul (EVar "x") (EVar "y")))))) 
+(ELet "g" (ELam "x" (EBin Plus (EVar "x") (EBin Mul (EInt 1) (EInt 3)))) 
+(EApp (EVar "f") (EApp (EInt 7) (EApp (EInt 8) (EVar "g")))))
