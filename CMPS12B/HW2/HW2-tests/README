@@ -1,0 +1,7 @@
+This is a collection of tests for HW2, CMPS12B-01, Fall 2017.
+
+For each input file (where each line is an input), there is a corresponding output file .
+This contains the correct solution for each line of the input.
+
+For example, no-knight-input.txt contains inputs with no knights.
+The corresponding solution file is no-knight-output.txt.

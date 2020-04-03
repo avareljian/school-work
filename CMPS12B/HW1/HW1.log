@@ -1,0 +1,21 @@
+Checker has failed. Below is the log of the checker
+=============================================
+File Makefile not in HW1 folder. Please make sure it is there.
+FAIL
+==================================================
+Final score:
+0
+
+
+************ 2nd submission **************
+Checker has failed. Below is the log of the checker
+=============================================
+File Makefile not in HW1 folder. Please make sure it is there.
+FAIL
+==================================================
+Final score:
+0
+============================================= 
+New score after 2nd submission, updated on 11/12 
+ = floor(max(grade, grade + ((new_grade - grade) / 2)))
+0

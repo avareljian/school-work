@@ -1,0 +1,64 @@
+r n
+Invalid
+-
+n n
+N n
+-
+r n
+b n
+b n
+Invalid
+-
+Invalid
+-
+R y
+-
+-
+b n
+r y
+r n
+q y
+Q y
+B n
+B n
+Invalid
+K y
+-
+R y
+r n
+-
+q y
+Invalid
+-
+-
+-
+q y
+Invalid
+-
+-
+q n
+-
+Invalid
+r y
+Invalid
+-
+Invalid
+-
+q y
+-
+N n
+-
+Invalid
+-
+Invalid
+Invalid
+-
+-
+-
+k n
+-
+n n
+Invalid
+q n
+Invalid
+-

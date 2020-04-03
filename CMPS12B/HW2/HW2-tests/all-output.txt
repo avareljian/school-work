@@ -1,0 +1,142 @@
+-
+p n
+-
+Invalid
+P n
+-
+b n
+P n
+p n
+P n
+Invalid
+p n
+P n
+Invalid
+p n
+Invalid
+Invalid
+Invalid
+-
+P n
+-
+Invalid
+P n
+p n
+P n
+-
+p n
+N n
+Invalid
+Invalid
+Invalid
+p n
+Invalid
+r n
+p n
+-
+p n
+Invalid
+-
+Invalid
+Invalid
+r n
+p n
+-
+k n
+-
+p n
+-
+-
+Invalid
+-
+p n
+-
+Q y
+Invalid
+P n
+P n
+p n
+P n
+p y
+-
+p n
+r n
+p n
+P n
+Invalid
+-
+Invalid
+p n
+-
+p n
+b n
+Invalid
+-
+Invalid
+Invalid
+p n
+P n
+p n
+-
+-
+Invalid
+N n
+p n
+p n
+p n
+K n
+P n
+-
+r n
+Invalid
+p n
+Invalid
+-
+-
+Invalid
+-
+p y
+N n
+q n
+P n
+P n
+q n
+P n
+Invalid
+-
+n n
+Invalid
+-
+Invalid
+Invalid
+Invalid
+r n
+Invalid
+Invalid
+k n
+Invalid
+Invalid
+-
+b n
+-
+-
+-
+-
+-
+R n
+p n
+P n
+q y
+r n
+p n
+Invalid
+Invalid
+P n
+Invalid
+Invalid
+k y
+N n
+P n
+p n
+-
+Invalid

@@ -1,0 +1,9 @@
+README for CMPS12B Lab1
+
+Source Files: HelloUser.java HelloUser2.java
+
+Other Files: Makefile1, Makefile2, Makefile3, README
+
+Note: I appear to have accidentally made a duplicate folder in my repo named lab1
+(lowercase). Please ignore it! This folder doesn't actually exist on my computer and
+does not show up in GitBash, only on the webinterface.

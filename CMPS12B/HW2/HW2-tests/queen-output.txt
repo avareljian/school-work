@@ -1,0 +1,64 @@
+Invalid
+q n
+q n
+Q y
+-
+Invalid
+Q y
+Q y
+-
+Invalid
+q y
+Invalid
+-
+q n
+q y
+Q n
+-
+Invalid
+q y
+-
+-
+Invalid
+-
+Invalid
+Q y
+Invalid
+-
+-
+-
+Invalid
+-
+-
+Invalid
+-
+-
+Invalid
+Invalid
+Invalid
+Invalid
+-
+Invalid
+Q n
+Invalid
+-
+-
+Q y
+Q y
+Invalid
+-
+Q n
+Invalid
+Q y
+Q y
+-
+-
+Q y
+Invalid
+-
+Invalid
+q n
+-
+Q n
+q n
+Q n
