@@ -1,0 +1,10 @@
+Alexandra Vareljian
+avarelji
+CMPS101
+README for pa1
+
+Source Files: Lex.java ListClient.java Node.java List.java
+Other Files: README Makefile
+
+Lex.java will take two command line arguments giving the names of an input file and an output file. 
+The output file will contain the same lines as the input arranged in lexicographic (i.e. alphabetical) order. 
