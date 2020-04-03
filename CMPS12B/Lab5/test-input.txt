@@ -1,0 +1,20 @@
+e 45
+e 42
+e 21
+p
+d
+p
+d
+d
+p
+d
+d
+e 32
+e 2
+d
+p
+d
+d
+p
+e 10
+p
